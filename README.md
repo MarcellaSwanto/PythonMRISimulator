@@ -11,6 +11,7 @@ Status :
 --> Has some hardcoded values
 
 --> The folowing values/arrays are present, and of correct value:
+    
     VObj
       Gyro
       Mz
@@ -80,10 +81,11 @@ Status :
       TRCount      
 
 --> The following arrays are present, of correct shape, but incorrect values:
-    VMag
-      Gzgrid
-      Gygrid
-      Gxgrid
-    VSeq
-      GyAmpLine
-      flagsLine
+
+       VMag
+          Gzgrid
+          Gygrid
+          Gxgrid
+        VSeq
+          GyAmpLine
+          flagsLine
