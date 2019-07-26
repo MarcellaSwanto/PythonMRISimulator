@@ -1,5 +1,8 @@
 # PythonMRISimulator
 
+Usage:
+
+    Main_Function.py
 
 Python version of open source code for MRI-Lab, and MRI Simulator.
 Generates an image of an MRI Scan from a .mat file containing tissue properties (T1, T2, T2Star, Rho...).
