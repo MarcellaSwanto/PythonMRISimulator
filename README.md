@@ -93,6 +93,6 @@ Status :
           Gzgrid
           Gygrid
           Gxgrid
-        VSeq (Pulsegen.py
+        VSeq (Pulsegen.py)
           GyAmpLine
           flagsLine
