@@ -85,10 +85,10 @@ Status :
 
 --> The following arrays are present, of correct shape, but incorrect values:
 
-       VMag
+       VMag (Prescan.py)
           Gzgrid
           Gygrid
           Gxgrid
-        VSeq
+        VSeq (Pulsegen.py
           GyAmpLine
           flagsLine
