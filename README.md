@@ -4,6 +4,7 @@
 Python version of open source code for MRI-Lab, and MRI Simulator.
 Generates an image of an MRI Scan from a .mat file containing tissue properties (T1, T2, T2Star, Rho...).
 This version uses the BrainStardardResolution.mat file from the original Matlab MRI-Lab.
+For previous versions check https://github.com/MarcellaSwanto/mritopython
 
 Status :
 
