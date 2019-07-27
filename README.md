@@ -15,6 +15,8 @@ Status :
 
 --> Compiles without errors.
 
+--> When downloading the Matlab code from Github, make a subfolder called 'Output'
+
 --> Has some hardcoded values
 
 --> The following values/arrays are present, and of correct value:
